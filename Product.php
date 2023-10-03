@@ -49,8 +49,7 @@
    echo  $product->showDetails();
   
 
- // $product1 = new Product(1, "Pants", 123.45);
-  //echo  $product1->showDetails();
+
 
 
 
